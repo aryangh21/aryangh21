@@ -1,4 +1,4 @@
-<h1 align="center">HEllo World, I'm Aryan Ghorpade</h1>
+<h1 align="center">Hello World, I'm Aryan Ghorpade</h1>
 <h3 align="center">Jack of all trades, Master of all trades</h3>
 
 - 🔭 I’m currently working on **Line Follower using image Recognition**
