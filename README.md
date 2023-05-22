@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 👨‍💻 All of my projects are available at [aryangh21.github.io](aryangh21.github.io)
-
 - 📫 How to reach me **ghorpade.aryan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
